@@ -1,0 +1,20 @@
+h1{font-size: 28px;
+	font-weight: bold;
+	font-variant-position: right;
+}
+body{
+	background-image:url(http://www.fubiz.net/wp-content/uploads/2016/12/Minimalist-Black-and-White-Photography-4.jpg);
+    padding: 30px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+   
+img {
+	width: 100%;
+}
+.language{ font-weight: bold;
+}
+
+}
+
